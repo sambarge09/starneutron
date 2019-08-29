@@ -1,0 +1,114 @@
+.conversion {
+    background-color:#222;
+    color:#fff;
+    padding: 20px;
+    text-align: center
+}
+
+.footer-p {
+    color:grey;
+    text-align: center;
+}
+
+.nav-bg {
+    background-color: red;
+}
+.btn-primary{
+    color:rgb(40, 40, 112);
+}
+
+.about-section  {
+    margin:75px;
+    text-align: justify;
+}
+
+.row {
+    padding: 45px 0;
+}
+.side-image {
+    padding:10px;
+    border:4px solid rgb(128, 0, 32);
+}
+
+.pg-pad {
+    padding:15px;
+}
+.fonter{
+    font-size: 50px;
+    color: RED;
+    padding-top: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.my-container {
+    background-color: wheat;
+    height: 200px;
+    border-right: solid #222
+    
+}
+
+.btn-success {
+    background-color:  rgb(22, 22, 99)
+}
+    
+.star {
+    padding: 0px 15px;
+}
+
+.hach {
+    padding-left: 10px;
+}
+
+.acon {
+    background-color: rgb(240, 222, 240);
+    border:2px solid rgb(182, 126, 126);
+}
+
+
+.gh {
+    font-size: 25px;
+}
+
+.bla {
+    color: darkblue
+}
+
+#bdy {
+    background-color: red
+}
+
+.pa {
+    font-size: 20px;
+}
+
+.abdyh {
+    background-color: rgb(233, 187, 187)
+}
+
+.button1 {
+    width: 90%
+}
+
+.myc {
+    border: 2px solid gold;
+    width: 500px;
+    height: 700px;
+    background-color: whitesmoke
+
+}
+
+.formm {
+  margin-top:70px;
+    width: 80%;
+    border: 1px solid black
+}
+
+.bg-image {
+    background-image: url(../img/2319.jpg);
+}
+
+.cl {
+    background-color: #222;
+    height: 300px;
+    width: 300px;
+}
